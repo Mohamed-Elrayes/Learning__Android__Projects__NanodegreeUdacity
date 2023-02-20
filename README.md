@@ -1,6 +1,8 @@
-Android App Project
-This repository contains the source code for an Android app project written in Kotlin and using a UI toolkit. The app(s) in this project are designed to run on Android devices.
+<h1>My Projects for nanodegree udacity</h1>
 
+<a href="https://graduation.udacity.com/confirm/KRGC3WKD" > My Certificate </a>
+
+This repository contains the source code for an Android apps projects written in Kotlin and using a UI toolkit. The app(s) in this project are designed to run on Android devices.
 
 Android Studio (version X.X.X or higher)
 Android SDK (API level XX or higher)
