@@ -12,7 +12,7 @@ I successfully completed the Android Nanodegree and received the following certi
 - **Certification ID:** KRGC3WKD
 - **Issued by:** Udacity
 - **Date:** October 23,2022
-- **Linke:** <a href="https://graduation.udacity.com/confirm/KRGC3WKD" > Certificate </a>
+- **Link:** <a href="https://graduation.udacity.com/confirm/KRGC3WKD" > Certificate </a>
 ---
 
 ## Projects Overview
